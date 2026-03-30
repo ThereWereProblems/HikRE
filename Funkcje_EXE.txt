@@ -1,0 +1,3 @@
+Lista funkcji EXE:
+- Uruchomienie aplikacji konsolowej.
+- Wyświetlenie komunikatu powitalnego.
